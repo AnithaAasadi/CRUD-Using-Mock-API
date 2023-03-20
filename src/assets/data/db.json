@@ -1,0 +1,53 @@
+{
+    "products": [
+      { "id": 1, 
+      "productName": "AC", 
+      "seller": "Heir",
+      "price":10000,
+      "description":"the product description goes here",
+    " warrenty":"2",
+    "rating":5,
+    "is_available":true
+    },
+    { "id": 2, 
+      "productName": "Fan", 
+      "seller": "Bajaj",
+      "price":5000,
+      "description":"the product description goes here",
+    " warrenty":"2",
+    "rating":5,
+    "is_available":true
+    },
+    { "id": 3, 
+      "productName": "Grider", 
+      "seller": "Preeti",
+      "price":8000,
+      "description":"the product description goes here",
+    " warrenty":"2",
+    "rating":5,
+    "is_available":true
+    },
+    { "id": 4, 
+      "productName": "Fridge", 
+      "seller": "Heir",
+      "price":30000,
+      "description":"the product description goes here",
+    " warrenty":"2",
+    "rating":5,
+    "is_available":true
+    },
+    { "id": 5, 
+      "productName": "Washing Machine", 
+      "seller": "Heir",
+      "price":20000,
+      "description":"the product description goes here",
+    " warrenty":"2",
+    "rating":5,
+    "is_available":true
+    }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
